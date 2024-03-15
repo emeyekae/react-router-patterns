@@ -1,0 +1,12 @@
+.DogDetails {
+margin-left: 20px;
+margin-bottom: 20px;
+}
+
+
+.DogDetails img {
+  max-width: 50%;
+  border-radius: 5%;
+  margin-top: 1rem;
+}
+

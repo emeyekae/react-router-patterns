@@ -1,0 +1,19 @@
+.ColorPage {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: black 0 0 15px;
+  font-size: xxx-large ;
+  padding-bottom: 30%;
+}
+
+.ColorPage a {
+  color: white;
+}

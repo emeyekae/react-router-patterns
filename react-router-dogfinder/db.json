@@ -1,0 +1,34 @@
+{
+  "dogs": [
+      {
+        "name": "Pippi",
+        "age": 6,
+        "src": "pippi",
+        "facts": [
+          "Pippi loves to chase chipmunks.",
+          "Pippi likes to travel and visit.",
+          "Pippi enjoys eating."
+        ]
+      },
+      {
+        "name": "Patches",
+        "age": 18,
+        "src": "patches",
+        "facts": [
+          "Patches loves carryout food, especially pork fried rice.",
+          "Patches likes going on adventurous hikes and going for a burger afterwards.",
+          "Patches is the president of the Good Girls club."
+        ]
+      },
+      {
+        "name": "Marley",
+        "age": 10,
+        "src": "goldie",
+        "facts": [
+          "Marley loves all humans and brings them joy.",
+          "Marley lays on the couch after everyone leaves. They know she was there because it's still warm when they return",
+          "Marley is always happy and likes to get dressed up"
+        ]
+      }
+    ]
+}

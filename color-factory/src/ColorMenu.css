@@ -1,0 +1,34 @@
+.ColorMenu {
+  text-align: center;
+}
+
+.ColorMenu-header {
+  background-color: black;
+  height: 15%;
+  padding: 20px;
+  color: white;
+}
+
+.ColorMenu-header a {
+  color: white;
+}
+
+.ColorMenu-title {
+  font-size: xx-Large;
+}
+
+.ColorMenu-info {
+  text-align: center;
+  font-size: large;
+  background: linear-gradient(to bottom, white,65% , black);
+}
+
+ul {
+  list-style: none;
+  padding-bottom: 40%;
+  padding-right: 35px;
+}
+
+.list{
+  text-align: center;
+}

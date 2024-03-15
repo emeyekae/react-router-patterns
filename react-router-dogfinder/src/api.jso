@@ -1,0 +1,15 @@
+import axios from "axios";
+
+async function fetchAllDogs() {
+  console.log("api: fetchAllDogs");
+  const resp = await axios.get("http://localhost:5001/dogs");
+  return resp.data;
+}
+
+async function fetchDog(id) {
+  console.log("api: fetchDog", id);
+  const resp = await axios.get(`http://localhost:5001/dogs/${id}`);
+  return resp.data;
+}
+
+export { fetchDog, fetchAllDogs };

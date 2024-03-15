@@ -1,0 +1,50 @@
+{
+  "name": "color-factory",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.4",
+    "@testing-library/jest-dom": "*",
+    "@testing-library/react": "*",
+    "@testing-library/user-event": "*",
+    "axios": "*",
+    "concurrently": "*",
+    "json-server": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "*",
+    "web-vitals": "*"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }  
+}
